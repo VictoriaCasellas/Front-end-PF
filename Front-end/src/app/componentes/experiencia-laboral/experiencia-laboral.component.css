@@ -1,0 +1,13 @@
+.row {
+    font-family: sans-serif;
+    padding: 30px;
+    font-size: large;
+}
+
+h2, h3 {
+    display: inline;
+   
+}
+div{
+    background-color: rgb(176, 207, 235);
+}

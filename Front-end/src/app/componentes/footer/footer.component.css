@@ -1,0 +1,10 @@
+.row {
+    background-color: rgb(176, 207, 235);
+    padding: 20px;
+    color: blue;
+    font-size: 14px;
+    text-align: center;
+    display: flexbox;
+   
+}
+
